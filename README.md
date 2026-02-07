@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 🚀 Hi, I’m Tochi Michael
+# I’m Tochi Michael
 
 I’m a **Frontend / Software Developer** focused on building **modern, high-performance web applications** with clean architecture and strong user experience.
 
@@ -19,12 +19,11 @@ I’m intentional about growth, consistency, and becoming a world-class engineer
 ---
 
 ## 🛠 Tech Stack
-*Languages*
-- HTML • CSS • JavaScript
-  • Typescript  
- *Framework*
+**Languages**
+- HTML • CSS • JavaScript •Typescript
+**Framework**
 - React • Vite • Angular • NextJS  • Tailwind CSS
-*Tools*
+**Tools**
 - Git • GitHub • VS Code  
 
 **Currently Leveling Up**
