@@ -20,12 +20,16 @@ I’m intentional about growth, consistency, and becoming a world-class engineer
 
 ## 🛠 Tech Stack
 **Languages**
+
 HTML • CSS • JavaScript • Typescript
   
 **Framework**
-React • Vite • Angular • NextJS  • Tailwind CSS
+
+React • Vite • Angular • NextJS 
+• Tailwind CSS
   
 **Tools**
+
 Git • GitHub • VS Code  
 
 **Currently Leveling Up**
