@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I’m Tochi Michael
+# I’m Gabriel Michael
 
 I’m a **Frontend / Software Developer** focused on building **modern, high-performance web applications** with clean architecture and strong user experience.
 
